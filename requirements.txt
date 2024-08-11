@@ -1,3 +1,4 @@
 flask[async]
 gunicorn
 requests
+asyncio
